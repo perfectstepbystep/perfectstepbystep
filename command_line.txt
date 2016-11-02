@@ -14,7 +14,7 @@ NOTES:
  e.g. `$PS1='$ '` is different from `PS1 = '$ '`
 * Options in commands start with '_' Don't have names of files or folders starting with that
 * When using file with space in them, wrap them in "" a more complicated option is to escape the space
-* use the flag '-i' on rm/mv (mv silently replace eventually existing files) cmd to acknowledge destructive changes
+* use the flag '-i' on rm/mv (mv silently replace eventually existing file) cmd to acknowledge destructive changes
 
 Ref: http://swcarpentry.github.io/shell-novice/
 The Art of UNIX Programming by Eric S. Raymond
