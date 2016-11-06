@@ -1,0 +1,20 @@
+We use the shell which is a wrapper around the underlying complex engine
+The shell is the middle-man: makes our life easy. In charge of RPL (below), background program does E
+	Read, Exec, Print, Loop
+'-' previous directory I was in...
+Typed commands are short & terse > easy automation> achieve a lot with a few keystrokes
+Best means to interact with remote resources
+Can easily chain task together > repetitive & sequential tasks are handled easily
+Store files that change with time in the format 'yyyy-mm-dd-extra-info' (use leading 0s in yrs days month)
+	Why use '-' as separator, not '_'?
+'$ls -lh' includes the file size in more human readable format
+
+NOTES: 
+* Spaces between words is significant in the shell especially around the '=' operator
+ e.g. `$PS1='$ '` is different from `PS1 = '$ '`
+* Options in commands start with '_' Don't have names of files or folders starting with that
+* When using file with space in them, wrap them in "" a more complicated option is to escape the space
+* use the flag '-i' on rm/mv (mv silently replace eventually existing files) cmd to acknowledge destructive changes
+
+Ref: http://swcarpentry.github.io/shell-novice/
+The Art of UNIX Programming by Eric S. Raymond
