@@ -9,6 +9,13 @@ Store files that change with time in the format 'yyyy-mm-dd-extra-info' (use lea
 	Why use '-' as separator, not '_'?
 '$ls -lh' includes the file size in more human readable format
 
+Prefixing a name with '$' means it's a variable
+Use ';' to separate commands on a line
+When the value of a variable might have space, we need to quote every var definition
+grep = 'global/regular expression/print'
+	Finds lines in a file
+'find' locates files on the system
+
 NOTES: 
 * Spaces between words is significant in the shell especially around the '=' operator
  e.g. `$PS1='$ '` is different from `PS1 = '$ '`
