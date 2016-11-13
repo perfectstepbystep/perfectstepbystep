@@ -1,0 +1,22 @@
+"declarative", efficient, and "flexible" JavaScript library for building "user interfaces".
+React.Component class/type
+		In: parameters/props
+		Out: Element = hierarchy of views
+		2 know: method 'render'
+React.element Output of component.render(), html form gets converted to React objects
+
+Use 'className' vs typical DOM 'class'
+'<MyClass />' display in the DOM the output of the component MyClass
+
+Passing data around
+	via DOM element attribute e.g. 'value'
+Calling 'super' in constructor method is compulsory
+React does some optimisation in the background: what & when to render
+Store state of children in parent when they need to be aggregate
+	Pushing a child state down is better than pushing it up to parent for aggregation
+'key' React specific attribute
+	Can't be accessed via 'this.props.key'
+Devtools specific to Reactjs
+
+Reference:
+https://facebook.github.io/react/tutorial/tutorial.html

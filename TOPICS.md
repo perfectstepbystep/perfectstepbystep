@@ -12,3 +12,4 @@ infrastructure as code
 Terraform
 CI. CD
 Ansible
+When do we need a SPA Js framework?
