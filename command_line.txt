@@ -61,7 +61,8 @@ grep = 'global/regular expression/print'
 			asks 4 pasword of current user
 		Don't edit '/etc/sudoers' manually, use 'visudo',which validate syntax b4 saving
 
-
+Getting lines numbers in repository, sorted
+find ./malcolm/src/ \( -iname '*.java' -o -iname '*.java' -o -iname '*.pl' \) -exec wc -l {} + | sort -n
 
 
 
@@ -76,3 +77,4 @@ Ref: http://swcarpentry.github.io/shell-novice/
 The Art of UNIX Programming by Eric S. Raymond
 https://blog.tankywoo.com/linux/2013/09/14/ssh-passwordauthentication-vs-challengeresponseauthentication.html
 https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers
+http://www.commandlinefu.com/commands/view/5498/count-lines-of-code-across-multiple-file-types-sorted-by-least-amount-of-code-to-greatest
