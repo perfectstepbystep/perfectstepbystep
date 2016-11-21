@@ -1,0 +1,4 @@
+up. There’s a time and place for them, but I think it’s better to avoid them while a product is rapidly evolving. They’re harder to work with and change, awkward to test, and almost definitely unnecessary early on. Keep it simple by leaving business logic out of your database, at least until something drives you to re-evaluate.
+
+Reference:
+  http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/

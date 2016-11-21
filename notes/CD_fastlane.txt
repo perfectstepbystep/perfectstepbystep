@@ -1,0 +1,5 @@
+Automates betw deployments & releases for Android & iOS apps
+Using '$sudo gem install fastlane --verbose' on Mac doesn't install properly, I had to use gem install fastlane
+	ruby-2.0.0-p643
+Reference:
+  https://fastlane.tools

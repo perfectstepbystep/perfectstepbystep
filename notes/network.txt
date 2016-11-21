@@ -1,0 +1,4 @@
+Security
+	https://en.wikipedia.org/wiki/Access_control_list
+	http://searchsecurity.techtarget.com/definition/DMZ
+	https://dev.to/sedaily/debugging-stories-with-haseeb-qureshi

@@ -1,0 +1,6 @@
+$java -d64 -version # Confirm it makes a difference on Windows
+Windows
+	If your application runs in a web browser using Java's browser plugin, you can only have one version at a time.
+
+Reference:
+	https://support.inductiveautomation.com/index.php?/Knowledgebase/Article/View/87/0/running-multiple-versions-of-java-on-the-same-windows-machine

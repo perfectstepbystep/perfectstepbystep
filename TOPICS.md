@@ -13,3 +13,4 @@ Terraform
 CI. CD
 Ansible
 When do we need a SPA Js framework?
+https://en.wikipedia.org/wiki/MQTT

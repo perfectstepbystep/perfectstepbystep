@@ -1,0 +1,12 @@
+$docker-machine ls
+	view existing docker machines
+$docker-machine create -d virtualbox default
+	create a default machine
+(N)$sudo service docker restart
+$docker-machine env default	# then follow along
+	If we can't connect to the docker daemon
+$docker images
+	list existing docker images locally?
+	can we do that for a remote location? e.g. Docker hub
+
+Works for Mac OS with virtualbox installed :)

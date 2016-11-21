@@ -1,0 +1,17 @@
+registering a domain name	
+	Elastic Load Balancing 'automatically' provides a public IP
+	Using Elastic Beanstalk 'automatically' does Elastic Load Balancing
+
+	Setting Bitnami application password to 'cCE8acJLf12y'
+
+Getting started
+	https://aws.amazon.com/getting-started/use-cases/
+	https://aws.amazon.com/getting-started/tutorials/	(10 mins)
+	https://aws.amazon.com/getting-started/use-cases/websites/
+	https://aws.amazon.com/getting-started/projects/
+2 Read
+	https://blog.digitalcube.jp/archives/1870
+
+Reference:
+https://aws.amazon.com/getting-started/tutorials/
+
